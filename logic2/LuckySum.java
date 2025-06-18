@@ -1,4 +1,7 @@
-public class Zad10luckySum {
+//https://codingbat.com/prob/p130788
+
+
+public class LuckySum {
     public static int luckySum(int a, int b, int c) {
         int sum = 0;
         if(a == 13){
